@@ -1,0 +1,15 @@
+C:\Users\kayol\source\repos\JogosCartasCesar\JogosCartasCesar\bin\Debug\net6.0\JogosCartasCesar.exe
+C:\Users\kayol\source\repos\JogosCartasCesar\JogosCartasCesar\bin\Debug\net6.0\JogosCartasCesar.deps.json
+C:\Users\kayol\source\repos\JogosCartasCesar\JogosCartasCesar\bin\Debug\net6.0\JogosCartasCesar.runtimeconfig.json
+C:\Users\kayol\source\repos\JogosCartasCesar\JogosCartasCesar\bin\Debug\net6.0\JogosCartasCesar.dll
+C:\Users\kayol\source\repos\JogosCartasCesar\JogosCartasCesar\bin\Debug\net6.0\JogosCartasCesar.pdb
+C:\Users\kayol\source\repos\JogosCartasCesar\JogosCartasCesar\obj\Debug\net6.0\JogosCartasCesar.csproj.AssemblyReference.cache
+C:\Users\kayol\source\repos\JogosCartasCesar\JogosCartasCesar\obj\Debug\net6.0\JogosCartasCesar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayol\source\repos\JogosCartasCesar\JogosCartasCesar\obj\Debug\net6.0\JogosCartasCesar.AssemblyInfoInputs.cache
+C:\Users\kayol\source\repos\JogosCartasCesar\JogosCartasCesar\obj\Debug\net6.0\JogosCartasCesar.AssemblyInfo.cs
+C:\Users\kayol\source\repos\JogosCartasCesar\JogosCartasCesar\obj\Debug\net6.0\JogosCartasCesar.csproj.CoreCompileInputs.cache
+C:\Users\kayol\source\repos\JogosCartasCesar\JogosCartasCesar\obj\Debug\net6.0\JogosCartasCesar.dll
+C:\Users\kayol\source\repos\JogosCartasCesar\JogosCartasCesar\obj\Debug\net6.0\refint\JogosCartasCesar.dll
+C:\Users\kayol\source\repos\JogosCartasCesar\JogosCartasCesar\obj\Debug\net6.0\JogosCartasCesar.pdb
+C:\Users\kayol\source\repos\JogosCartasCesar\JogosCartasCesar\obj\Debug\net6.0\JogosCartasCesar.genruntimeconfig.cache
+C:\Users\kayol\source\repos\JogosCartasCesar\JogosCartasCesar\obj\Debug\net6.0\ref\JogosCartasCesar.dll
